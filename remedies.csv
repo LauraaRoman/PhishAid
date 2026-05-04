@@ -1,5 +1,5 @@
 Category,Keyword,Action_Plan
-Banking,card,Freeze your card immediately via the mobile app and call the bank emergency line.
-SocialMedia,password,Reset your credentials, log out from all devices, and enable 2FA.
-Downloads,file,Disconnect from Wi-Fi immediately and run a full system antivirus scan.
-Urgency,immediately,Take a moment to breathe. Attackers use panic to bypass your logic.
+Banking,card,"Contact your bank immediately to block your card, and report the fraud."
+SocialMedia,password,"Reset your credentials, enable 2FA, and log out from all devices."
+Downloads,file,"Disconnect from the internet, run a full scan, and delete the file."
+Urgency,immediately,"Stay calm. Attackers use urgency to bypass logic, so verify the source."
