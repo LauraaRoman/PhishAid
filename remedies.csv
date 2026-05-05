@@ -2,6 +2,7 @@ Category,Keyword,Action_Plan
 Banking,card,"Contact your bank immediately to block your card, and report the fraud."
 Banking,transfer,"Never authorize unexpected transfers. Verify any request via your bank's official phone number or app."
 Banking,iban,"Do not provide your IBAN on suspicious websites. Report any unauthorized direct debit attempts to your bank."
+Banking,identity,"Don't click on suspicious links. Contact your bank to verify recent activity."
 SocialMedia,password,"Reset your credentials, enable 2FA, and log out from all devices."
 SocialMedia,instagram,"Go to Settings > Security > Login Activity to log out unknown sessions. Never share your 2FA backup codes."
 SocialMedia,hacked,"Contact Instagram Support through the 'Request Support' option in the app and warn your followers about the breach."
